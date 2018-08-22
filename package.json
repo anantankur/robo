@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://anantankur.github.io/robofriends/build",
+  "homepage": "https://anantankur.github.io/robo",
   "devDependencies": {
     "gh-pages": "^1.2.0"
   }
